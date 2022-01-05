@@ -23,6 +23,7 @@
     "react-loaders": "^3.0.1",
     "react-scripts": "5.0.0",
     "react-spinners-kit": "^1.9.1",
+    "use-sound": "^4.0.1",
     "web-vitals": "^0.2.2"
   },
   "scripts": {

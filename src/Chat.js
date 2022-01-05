@@ -15,7 +15,6 @@ export default function Chat() {
         {loading && <span>Loading messages from database</span>}
         {value && (
           <span>
-            Collection:{' '}
             {value.docs.map(doc => (
               <React.Fragment key={doc.id}>
                 <>
