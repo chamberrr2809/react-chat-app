@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## TO-DO: Place your Firebase Config fron the firebase console on `src/firebase.js`
+
 ## Available Scripts
 
 In the project directory, you can run:
